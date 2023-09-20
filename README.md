@@ -10,7 +10,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/dhinesh-mohan/" title="LinkedIn Profile"><img width="22" src="svg/linkedin-svgrepo-com.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/dhinesh-mohan/" title="LinkedIn Profile"><img width="22" src="svg/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/Dhinesh_M/" title="LeetCode Profile"><img width="22" src="svg/leetcode.svg"> LeetCode</a></code>
  
 </h5>
