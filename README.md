@@ -23,8 +23,13 @@
 <br>
   
 <h2 align="center">
-<code><img title="HTML5" height="50" src="svg/html5.svg"></code>
-</h2/
+  <code><img title="Java" height="50" src="svg/Java-original.svg"></code>
+  <code><img title="HTML5" height="50" src="svg/Html5.svg"></code>
+  
+  <code><img title="Css3" height="50" src="svg/Css.svg"></code>
+  <code><img title="Javascript" height="50" src="svg/Javascript.svg"></code>
+  <code><img title="MongoDB" height="50" src="svg/MongoDB.svg"></code>
+</h2>
 
   
   
