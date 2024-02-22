@@ -25,10 +25,12 @@
 <h2 align="center">
   <code><img title="Java" height="50" src="svg/Java-original.svg"></code>
   <code><img title="HTML5" height="50" src="svg/Html5.svg"></code>
-  
   <code><img title="Css3" height="50" src="svg/Css.svg"></code>
   <code><img title="Javascript" height="50" src="svg/Javascript.svg"></code>
+  
   <code><img title="React" height="50" src="svg/React.svg"></code>
+  <code><img title="Nodejs" height="50" src="svg/Nodejs.svg"></code>
+  <code><img title="Expressjs" height="50" src="svg/Expressjs.svg"></code>
   <code><img title="MongoDB" height="50" src="svg/MongoDB.svg"></code>
 </h2>
 
