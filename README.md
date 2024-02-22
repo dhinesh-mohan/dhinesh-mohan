@@ -28,6 +28,7 @@
   
   <code><img title="Css3" height="50" src="svg/Css.svg"></code>
   <code><img title="Javascript" height="50" src="svg/Javascript.svg"></code>
+  <code><img title="React" height="50" src="svg/React.svg"></code>
   <code><img title="MongoDB" height="50" src="svg/MongoDB.svg"></code>
 </h2>
 
