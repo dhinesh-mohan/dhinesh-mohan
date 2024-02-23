@@ -33,8 +33,3 @@
   <code><img title="Expressjs" height="50" src="svg/Expressjs.svg"></code>
   <code><img title="MongoDB" height="50" src="svg/MongoDB.svg"></code>
 </h2>
-
-  
-  
-Here are some ideas to get you started:
-
