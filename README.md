@@ -18,7 +18,7 @@
   <a href="https://codedamn.com/user/dhineshmohan03" target="blank"><img align="center" src="svg/codedamn.png" alt="Dhinesh_M" height="30" width="40" /></a>
 </p>
 
-<hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
   
