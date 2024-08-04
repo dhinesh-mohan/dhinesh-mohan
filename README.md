@@ -17,12 +17,17 @@
 <br>
   
 <h2 align="center">
-  <code><img title="Java" height="50" src="svg/Java-original.svg"></code>
-  <code><img title="Java" height="50" src="svg/Python.svg"></code>
-  <code><img title="Java" height="50" src="svg/Linux.svg"></code>
-  <code><img title="Java" height="50" src="svg/Terraform.svg"></code>
-  <code><img title="Java" height="50" src="svg/Jenkins.svg"></code>
-  <code><img title="Java" height="50" src="svg/Docker.svg"></code>
-  <code><img title="Java" height="50" src="svg/Kubernetes.svg"></code>
-  <code><img title="Java" height="50" src="svg/aws-certified-cloud-practitioner.png"></code>
+  <code><img title="Cloud Practitioner" height="130" src="svg/aws-certified-cloud-practitioner.png"></code>
+  
+  <br>
+  <br>
+  <code><img title="Java" height="60" src="svg/Java-original.svg"></code>
+  <code><img title="Python" height="60" src="svg/Python.svg"></code>
+  <code><img title="Git" height="60" src="svg/Git.svg"></code>
+  <code><img title="Linux" height="60" src="svg/Linux.svg"></code>
+  <code><img title="Terraform" height="60" src="svg/Terraform.svg"></code>
+  <code><img title="Jenkins" height="60" src="svg/Jenkins.svg"></code>
+  <code><img title="Docker" height="60" src="svg/Docker.svg"></code>
+  <code><img title="Kubernetes" height="60" src="svg/Kubernetes.svg"></code>
+  
 </h2>
