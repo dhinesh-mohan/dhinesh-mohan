@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/dhinesh-mohan/" title="LinkedIn Profile" target="blank">
     <img align="center" height="60" src="svg/Linkedin.svg" alt="dhinesh-mohan" height="30" width="40" />
   </a>
-  <a href="mailto:your.email@example.com" title="Mail" target="blank">
+  <a href="mailto: dhineshambi03@gmail.com" title="Mail" target="blank">
     <img align="center" height="60" src="svg/Gmail.svg" alt="dhinesh-mohan" height="30" width="40" />
   </a>
 </p>
